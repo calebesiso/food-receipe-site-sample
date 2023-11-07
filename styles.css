@@ -37,13 +37,6 @@ header {
     margin-right: 60px;
 }
 
-.first-grid,.third-grid {
-}
-
-.second-grid,.fourth-grid {
-    
-}
-
 .grid-container {
     display: grid;
     grid-template-columns: 215px 215px 215px 215px;
